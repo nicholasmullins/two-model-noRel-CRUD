@@ -1,0 +1,25 @@
+{
+  "name": "two-model-norel-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasmullins/two-model-noRel-CRUD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholasmullins/two-model-noRel-CRUD/issues"
+  },
+  "homepage": "https://github.com/nicholasmullins/two-model-noRel-CRUD#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.7.6"
+  }
+}
